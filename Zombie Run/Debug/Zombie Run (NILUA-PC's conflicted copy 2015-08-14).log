@@ -1,0 +1,14 @@
+﻿Build started 8/14/2015 3:52:22 AM.
+     1>Project "C:\Users\NILUA\Dropbox\Clay Shooter\Zombie Run\Zombie Run.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\1 LOCAL CC\visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "clay shooter.cpp"
+         clay shooter.cpp
+     1>c:\users\nilua\dropbox\clay shooter\zombie run\clay shooter.cpp(49): warning C4390: ';' : empty controlled statement found; is this the intent?
+       Link:
+         E:\1 LOCAL CC\visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NILUA\Dropbox\Clay Shooter\Debug\clay shooter.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NILUA\Dropbox\Clay Shooter\Debug\clay shooter.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NILUA\Dropbox\Clay Shooter\Debug\clay shooter.lib" /MACHINE:X86 "Debug\clay shooter.obj"
+         Zombie Run.vcxproj -> C:\Users\NILUA\Dropbox\Clay Shooter\Debug\clay shooter.exe
+     1>Done Building Project "C:\Users\NILUA\Dropbox\Clay Shooter\Zombie Run\Zombie Run.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.63
